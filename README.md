@@ -46,16 +46,7 @@ This is a **Streamlit application** that allows users to upload PDF files, extra
 ## Example Output
 
 - **Uploaded PDF**: A research paper or document.
-- **Extracted Text**: Structured content with Markdown headings and paragraphs, such as:
-
-  ```markdown
-  ## Abstract
-
-  The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder.
-
-  ## Introduction
-
-  We propose a new simple network architecture, the Transformer, based solely on attention mechanisms...
+- **Extracted Text**: Structured content 
   ```
 
 ## Limitations
