@@ -19,10 +19,9 @@ This is a **Streamlit application** that allows users to upload PDF files, extra
 ## Installation
 
 1. Clone this repository or download the code:
-
    ```bash
-  https://github.com/edgelearningcentre/pdf2text_parser.git
-   cd pdf2text_parser
+      https://github.com/edgelearningcentre/pdf2text_parser.git
+      cd pdf2text_parser
    ```
 
 2. Install the required Python packages:
